@@ -1,4 +1,15 @@
-## Hi there, I'm Lisa 👋
+### Hi there, I am Lisa! 👋
+
+### About me:
+
+💻 ICT-Fachfrau EFZ i.A<br>
+📌 Based in Bern / Switzerland<br>
+
+### Looking for further information? Check my Linkedin:
+<a href="https://www.linkedin.com/in/lisa-fiechter-4216ab310/">
+  <img src="https://img.shields.io/badge/This%20way---%3E-9d00ff?style=for-the-badge" alt="Open my linkedin">
+</a>
+
 
 <!--
 **LiseliLisa/LiseliLisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
